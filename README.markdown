@@ -3,7 +3,7 @@
 Install
 =======
 
-script/plugin install git@github.com:redhatcat/hobo_media_file.git
+script/plugin install git://github.com/redhatcat/hobo_media_file.git
 script/generate hobo_migration
 
 *Note: The vanilla hobo install does not touch plugins when using
